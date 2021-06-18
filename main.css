@@ -114,3 +114,6 @@ table {
   border-spacing: 0;
 }
 /* конец кода сброса стилей браузера */
+html {
+  background-color: rgb(253, 248, 171);
+}
