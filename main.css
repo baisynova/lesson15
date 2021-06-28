@@ -169,3 +169,9 @@ p {
   color: rgb(75, 75, 75);
   margin-top: 10px;
 }
+.copyright {
+  font-size: 0.8em;
+  border: 6px dotted rgba(0, 0, 0, 0.5);
+  color: rgb(150, 100, 23);
+  text-transform: uppercase;
+}
